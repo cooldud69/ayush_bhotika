@@ -11,7 +11,6 @@
 **Education:**  
 - 🌱 Currently pursuing my PGDM (MBA) in Research and Business Anaytics at WeSchool Mumbai 
 - 🎓 B.Com (Finance), Kalinga Institute of Industrial Technology 
-- Certifications: NISM Research Analyst (Pursuing), Bloomberg, KPMG ESG Analytics
   
 **Financial Project:**  
 - Developed a comprehensive financial model for ITC Ltd. integrating WACC, DCF, relative valuation, and beta analysis to estimate intrinsic stock value; identified a target price of ₹460 indicating a 12% upside and undervaluation.
