@@ -1,45 +1,34 @@
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="100%">
       
-<!-- LEFT COLUMN: Introduction & Contact -->
 
 # Hi 👋, I'm Ayush Bhotika
 
-**Aspiring Finance Analyst | PGDM Candidate | Equity Researcher**
+**Aspiring Finance Analyst | PGDM Candidate **
 
-- 📞 Phone: +91 8825399519  
-- 📧 Email: 1RBA2024-ayush.bhotika@welingkar.org  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ayush-bhotika/)  
 
 **Education:**  
-- PGDM (Research & Business Analytics, Finance), WeSchool  
-- B.Com (Finance), KIIT  
+-🌱 Currently pursuing my PGDM (MBA) in Research and Business Anaytics at WeSchool Mumbai 
+-🎓 B.Com (Finance), Kalinga Institute of Industrial Technology 
 - Certifications: NISM Research Analyst (Pursuing), Bloomberg, KPMG ESG Analytics
+  
+**Financial Project:**  
+- Developed a comprehensive financial model for ITC Ltd. integrating WACC, DCF, relative valuation, and beta analysis to estimate intrinsic stock value; identified a target price of ₹460 indicating a 12% upside and undervaluation.
+  
+**Positions of Responsibility:**  
+-Elected Member of the Alumni Committee at WeSchool (2024-25).
+-Volunteered as Head of Finance for ‘Impact 2025’ and ‘Run Bhoomi 25’, managing financial planning and budgeting for both events.
 
-**Skills:**  
-Financial Modelling, Equity Research, Power BI, MS Excel, Python (Beginner), SQL (Beginner)
-
-**Interests:**  
-Movies, Sports & Fitness
+**Achievements:**  
+🏆 Winner of IIM Indore Equity Pitch Case Competition (Feb 2025) by leading financial and technical analysis of Tata Steel Limited to deliver a buy/sell recommendation through detailed valuation and modeling.
 
     </td>
-    <td width="40%" align="center">
+    <td width="100%" align="center">
       <img src="images/profile-side.jpg" alt="Profile Illustration" width="300"/>
     </td>
   </tr>
 </table>
-
-### Hi there 👋
-<h3 align='center'>Welcome to my page!</h3>
-</br> 
-<p align='center'>
-I'm Ayush Bhotika, aspiring Machine Learning engineer from <b>Jamshedpur, India</b>, currently studying Data Science and Engineering from Manipal Univeristy Jaipur and BS in Data Science and Application from IIT Madras.</p>
-<p align='center'>
-  I also develop ML based applications.
-</p>
-<h2> 💫 About Me: </h2>
-Ask me about Python, C++, ML/DL.<br>I'm Currently Learning Graph Networks and MLOps.<br>
 
 
 ## 🌐Connect with me :
