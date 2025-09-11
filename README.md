@@ -1,3 +1,35 @@
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+<!-- LEFT COLUMN: Introduction & Contact -->
+
+# Hi 👋, I'm Ayush Bhotika
+
+**Aspiring Finance Analyst | PGDM Candidate | Equity Researcher**
+
+- 📞 Phone: +91 8825399519  
+- 📧 Email: 1RBA2024-ayush.bhotika@welingkar.org  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ayush-bhotika/)  
+
+**Education:**  
+- PGDM (Research & Business Analytics, Finance), WeSchool  
+- B.Com (Finance), KIIT  
+- Certifications: NISM Research Analyst (Pursuing), Bloomberg, KPMG ESG Analytics
+
+**Skills:**  
+Financial Modelling, Equity Research, Power BI, MS Excel, Python (Beginner), SQL (Beginner)
+
+**Interests:**  
+Movies, Sports & Fitness
+
+    </td>
+    <td width="40%" align="center">
+      <img src="images/profile-side.jpg" alt="Profile Illustration" width="300"/>
+    </td>
+  </tr>
+</table>
+
 ### Hi there 👋
 <h3 align='center'>Welcome to my page!</h3>
 </br> 
