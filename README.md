@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Ayush Bhotika
 
-**Aspiring Finance Analyst | PGDM Candidate **
+**Aspiring Finance Analyst | PGDM Candidate**
 
 
 **Education:**  
