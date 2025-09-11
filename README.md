@@ -9,19 +9,19 @@
 
 
 **Education:**  
--🌱 Currently pursuing my PGDM (MBA) in Research and Business Anaytics at WeSchool Mumbai 
--🎓 B.Com (Finance), Kalinga Institute of Industrial Technology 
+- 🌱 Currently pursuing my PGDM (MBA) in Research and Business Anaytics at WeSchool Mumbai 
+- 🎓 B.Com (Finance), Kalinga Institute of Industrial Technology 
 - Certifications: NISM Research Analyst (Pursuing), Bloomberg, KPMG ESG Analytics
   
 **Financial Project:**  
--Developed a comprehensive financial model for ITC Ltd. integrating WACC, DCF, relative valuation, and beta analysis to estimate intrinsic stock value; identified a target price of ₹460 indicating a 12% upside and undervaluation.
+- Developed a comprehensive financial model for ITC Ltd. integrating WACC, DCF, relative valuation, and beta analysis to estimate intrinsic stock value; identified a target price of ₹460 indicating a 12% upside and undervaluation.
   
 **Positions of Responsibility:**  
--Elected Member of the Alumni Committee at WeSchool (2024-25).
--Volunteered as Head of Finance for ‘Impact 2025’ and ‘Run Bhoomi 25’, managing financial planning and budgeting for both events.
+- Elected Member of the Alumni Committee at WeSchool (2024-25).
+- Volunteered as Head of Finance for ‘Impact 2025’ and ‘Run Bhoomi 25’, managing financial planning and budgeting for both events.
 
 **Achievements:**  
--🏆 Winner of IIM Indore Equity Pitch Case Competition (Feb 2025) by leading financial and technical analysis of Tata Steel Limited to deliver a buy/sell recommendation through detailed valuation and modeling.
+- 🏆 Winner of IIM Indore Equity Pitch Case Competition (Feb 2025) by leading financial and technical analysis of Tata Steel Limited to deliver a buy/sell recommendation through detailed valuation and modeling.
 
   </tr>
 </table>
