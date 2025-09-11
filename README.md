@@ -12,15 +12,18 @@ Ask me about Python, C++, ML/DL.<br>I'm Currently Learning Graph Networks and ML
 
 ## 🌐Connect with me :
 
+
 <a href="https://www.linkedin.com/in/ayush-bhotika/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
 </a>
 <a href="mailto:ayushbhotika@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/gmail.png" width="40" height="40" alt="Gmail"/>
 </a>
 <a href="https://github.com/ayushbhotika" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40" alt="GitHub"/>
 </a>
+
+
 
 
 
